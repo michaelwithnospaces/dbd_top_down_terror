@@ -1,1 +1,0 @@
-g++ main.cpp Generator.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
