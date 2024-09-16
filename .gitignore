@@ -1,2 +1,6 @@
-a.out
-*.exe
+./out
+./CMakeFiles
+.git
+CMakeCache.txt
+cmake_install.cmake
+DBD_TOP_DOWN*
